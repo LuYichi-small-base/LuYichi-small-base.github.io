@@ -8,7 +8,7 @@
 
 ## 🖋博客
 
-- https://blog.luyichi.top/ (动态博客) [基于WordPress]
+- (动态博客) [基于WordPress]
 - https://gridea.blog.luyichi.top/ (静态博客) [基于Gridea]
 
 ## ⛳娱乐
