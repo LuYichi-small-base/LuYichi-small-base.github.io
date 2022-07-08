@@ -2,6 +2,7 @@
 
 ## 🌈写给团队
 - **luyichi-small-base已接入360API，请各位成员安装[团队360版](http://360.luyichi.top/ "团队360版")或者使用[luyichi-system定制系统](http://blog.luyichi.top/ "luyichi-system定制系统")，谢谢配合！！！**
+- [http://demand-pool.luyichi.top/](http://demand-pool.luyichi.top/ "http://demand-pool.luyichi.top/")（需求池）[by.飞书]
 
 ## 🎉主站
 
