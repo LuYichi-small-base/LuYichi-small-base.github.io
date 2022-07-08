@@ -1,6 +1,6 @@
 # luyichi.top旗下站点
 
-##🌈写给团队
+## 🌈写给团队
 - **luyichi-small-base已接入360API，请各位安装[团队360版](http://360.luyichi.top/ "团队360版")，谢谢配合！！！**
 
 ## 🎉主站
