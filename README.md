@@ -1,6 +1,6 @@
 # 筑梦服务器帮助文档
 
-#### [[必读]规则](https://luyichi-small-base.github.io/gui-ze.html)
+#### [[必读！]规则](https://luyichi-small-base.github.io/gui-ze.html)
 
 [客户端下载](https://luyichi-small-base.github.io/ke-hu-duan-xia-zai.html)
 
