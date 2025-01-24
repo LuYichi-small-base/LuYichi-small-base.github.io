@@ -1,5 +1,7 @@
 # **<font face="思源宋体 CN Heavy">2025年 高一（2）班寒假作业</font>**
 
+压缩包下载https://kdocs.cn/l/cizUnfjSDolp
+
 ## <font face="思源宋体 CN SemiBold">语文</font>
 
 <font size=5 face="汉仪粗黑简">※【必做】</font>**<font face="汉仪楷体简">《红楼梦》整本书阅读：</font>**
